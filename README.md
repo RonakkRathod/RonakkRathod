@@ -15,12 +15,12 @@
 ---
 
 ## 🚀 About Me
-
+<b>
 I'm a Full-Stack Developer with hands-on experience building scalable MERN stack applications.  
-I've designed **41+ RESTful API endpoints**, built **cloud media pipelines**, and shipped **secure JWT auth systems** — all while pursuing my BCA.
+I've designed RESTful API endpoints**, built **cloud media pipelines**, and shipped **secure JWT auth systems** — all while pursuing my BCA.
 
 I care about clean architecture, real-world impact, and code that scales.
-
+</b>
 ---
 
 ## 🛠️ Tech Stack
