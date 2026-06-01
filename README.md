@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ronak Rathod 👋</h1>
+<b><h1 align="center">Hey, I'm Ronak Rathod 👋</h1></b>
 
 <p align="center">
   <b>Full-Stack Developer · MERN Stack · BCA @ Indus University</b><br/>
