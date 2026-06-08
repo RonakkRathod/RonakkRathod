@@ -9,7 +9,6 @@
   <a href="mailto:ronakrathod0022@gmail.com">📧 Email</a> ·
   <a href="https://linkedin.com/in/RonakRathod">💼 LinkedIn</a> ·
   <a href="https://ronakrathod.netlify.app">🌐 Portfolio</a> ·
-  <a href="https://github.com/RonakkRathod">⚙️ GitHub</a>
 </p>
 
 ---
